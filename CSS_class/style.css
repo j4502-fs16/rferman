@@ -60,3 +60,14 @@ body{
 #nav a:hover, a:active {
   background-color: #7a991a;
 }
+
+#footer {
+  color: black;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.8em;
+  border-top: 1px solid black;
+}
+
+img {
+  border-style: none;
+}
