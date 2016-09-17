@@ -3,9 +3,10 @@ body{
 }
 
 #container {
-    width: 95%;
-    background-color: #000000;
+    width: 80%;
+    background-color: #00bfff;
     margin: 0 auto;
+  }
 
 h1 {
   color: #ffffff;
